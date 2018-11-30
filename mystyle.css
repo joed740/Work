@@ -1,0 +1,96 @@
+ header{
+	background-color: grey;
+
+	border-style: ridge;
+	border-color: #93C248;
+	width: 100%;
+
+}
+
+body{
+		font-family: helvetica;
+		background-color: blue;
+}
+
+
+
+article{
+		background-color: white;
+		text-align: center;
+		border-style: ridge;
+		border-color:#93C248;
+		width: 100%;
+
+}
+
+#image1{
+	padding: 5;
+	background-color: blue;
+	border-style: ridge;
+	width: 25%;
+	float: right;
+}
+
+#image2{
+	width: 100%;
+
+}
+
+
+aside{
+	background-color: grey;
+	padding-left: 10px;
+	border-style: inset;
+}
+video{
+	width: 30%;
+	padding: 5px;
+	background-color: blue;
+	float: left;
+	border-style: double;
+}
+
+#imacontainer{
+	padding: 0;
+	border-color: green;
+	background-color: pink;
+	float: left;
+	border-style: ridge;
+	width: 100%;
+}
+
+
+footer{
+		clear: both;
+		background-color: #66CCFF;
+		padding: 5px;
+		border-style: ridge;
+		border-color: #93C248;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+nav {
+	float: right;
+}

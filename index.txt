@@ -1,0 +1,5 @@
+<!doctype html>
+<title>index</title>
+<h1>index</h1>
+<p>WebFun is not fun</p>
+
